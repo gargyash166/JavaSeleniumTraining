@@ -27,5 +27,7 @@ public class notificatonpopup  {
 	Thread.sleep(3000);
 
 	       robo.keyPress(KeyEvent.VK_ENTER);
+	       
+	       
 	}
 }
