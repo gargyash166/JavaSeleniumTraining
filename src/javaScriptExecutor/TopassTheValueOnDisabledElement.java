@@ -28,5 +28,4 @@ js.executeScript("arguments[0].click()", text2);
 }
 }
 
-0
 
